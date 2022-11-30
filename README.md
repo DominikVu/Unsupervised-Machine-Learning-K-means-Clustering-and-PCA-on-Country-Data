@@ -1,5 +1,6 @@
 # Unsupervised-Machine-Learning-K-means-Clustering-and-PCA-on-Country-Data
 
+With this model I waned to point out the 3 PCA clusters for determining 
 Factors of Child mortality
 taken from the Country-data.csv! 
 
